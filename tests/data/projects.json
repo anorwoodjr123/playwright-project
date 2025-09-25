@@ -1,0 +1,34 @@
+{
+  "projects": [
+    {
+      "name": "Web Application",
+      "subtitle": "Main web application development",
+      "expectedCards": {
+        "toDo": 2,
+        "inProgress": 1,
+        "review": 1,
+        "done": 1
+      }
+    },
+    {
+      "name": "Mobile Application", 
+      "subtitle": "Native mobile app development",
+      "expectedCards": {
+        "toDo": 1,
+        "inProgress": 1,
+        "review": 0,
+        "done": 1
+      }
+    },
+    {
+      "name": "Marketing Campaign",
+      "subtitle": "Q2 Marketing initiatives", 
+      "expectedCards": {
+        "toDo": 1,
+        "inProgress": 1,
+        "review": 1,
+        "done": 0
+      }
+    }
+  ]
+}
